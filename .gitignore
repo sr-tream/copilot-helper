@@ -1,0 +1,8 @@
+out/
+dist/
+test/
+node_modules
+.vscode-test/
+*.vsix
+extension.js*
+/.claude
