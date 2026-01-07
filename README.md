@@ -6,9 +6,9 @@
 
 ### **Supercharge your GitHub Copilot with multiple AI providers**
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/vicanent.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Version&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=vicanent.copilot-helper-pro)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/vicanent.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Downloads&color=28A745)](https://marketplace.visualstudio.com/items?itemName=vicanent.copilot-helper-pro)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/vicanent.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Rating&color=FFC107)](https://marketplace.visualstudio.com/items?itemName=vicanent.copilot-helper-pro)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/biebie99.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Version&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=biebie99.copilot-helper-pro)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/biebie99.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Downloads&color=28A745)](https://marketplace.visualstudio.com/items?itemName=biebie99.copilot-helper-pro)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/biebie99.copilot-helper-pro?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Rating&color=FFC107)](https://marketplace.visualstudio.com/items?itemName=biebie99.copilot-helper-pro)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.104.0+-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)

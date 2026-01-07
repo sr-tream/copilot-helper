@@ -1,0 +1,1 @@
+- fix(antigravity): remove unsupported 'examples' field from Gemini schema (bienmainhat)
